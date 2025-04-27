@@ -1,0 +1,118 @@
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.csproj.AssemblyReference.cache
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.Properties.Resources.resources
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.csproj.GenerateResource.cache
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.csproj.CoreCompileInputs.cache
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.Hasta.resources
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\HastaneVeritabani_Arayuzu.exe.config
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\HastaneVeritabani_Arayuzu.exe
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\HastaneVeritabani_Arayuzu.pdb
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\Npgsql.dll
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Buffers.dll
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Collections.Immutable.dll
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Memory.dll
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Numerics.Vectors.dll
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Text.Encodings.Web.dll
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Text.Json.dll
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Threading.Channels.dll
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.ValueTuple.dll
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\Npgsql.xml
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Buffers.xml
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Collections.Immutable.xml
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Memory.xml
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Numerics.Vectors.xml
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Text.Encodings.Web.xml
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Text.Json.xml
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Threading.Channels.xml
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\bin\Debug\System.ValueTuple.xml
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.csproj.CopyComplete
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.exe
+C:\ADEM\Biyomedikal_Muh_DERS_NOTLARI\4_Sinif_2_Donem\YAZ_OKULU\VeritabaniYonetimSistemleri\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.pdb
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\HastaneVeritabani_Arayuzu.exe.config
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\HastaneVeritabani_Arayuzu.exe
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\HastaneVeritabani_Arayuzu.pdb
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\Npgsql.dll
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Buffers.dll
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Memory.dll
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Text.Json.dll
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Threading.Channels.dll
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.ValueTuple.dll
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\Npgsql.xml
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Buffers.xml
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Memory.xml
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Text.Json.xml
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Threading.Channels.xml
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\bin\Debug\System.ValueTuple.xml
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.csproj.AssemblyReference.cache
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.Hasta.resources
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.Properties.Resources.resources
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.csproj.GenerateResource.cache
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.csproj.CopyComplete
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.exe
+C:\Users\Yunus Emre\Desktop\HastaneVeritabani_Arayuzu\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.pdb
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\HastaneVeritabani_Arayuzu.exe.config
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\HastaneVeritabani_Arayuzu.exe
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\HastaneVeritabani_Arayuzu.pdb
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\Npgsql.dll
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Buffers.dll
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Memory.dll
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Text.Json.dll
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Threading.Channels.dll
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.ValueTuple.dll
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\Npgsql.xml
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Buffers.xml
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Memory.xml
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Text.Json.xml
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Threading.Channels.xml
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\bin\Debug\System.ValueTuple.xml
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.csproj.AssemblyReference.cache
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.Hasta.resources
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.Properties.Resources.resources
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.csproj.GenerateResource.cache
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\obj\Debug\HastaneV.0E12AE4B.Up2Date
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.exe
+C:\Users\HUAWEİ\Downloads\vtysprojee2\HastaneVeritabani_Arayuzu\obj\Debug\HastaneVeritabani_Arayuzu.pdb

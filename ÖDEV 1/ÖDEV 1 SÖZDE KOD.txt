@@ -1,0 +1,146 @@
+﻿Fonksiyon rastgeleNotUret (Tamsayı i, Tamsayı sayi)
+
+    Yaratmak Tamsayı rastgeleNot
+
+    Eğer i + 1 <= sayi / 5
+        Atama rastgeleNot = 80 + random(20) + 1
+    Değilse Eğer i + 1 <= sayi * 5 / 10
+        Atama rastgeleNot = 50 + random(30) + 1
+    Değilse
+        Atama rastgeleNot = 0 + random(50) + 1
+
+   Döndür Tamsayı rastgeleNot
+Son
+
+Fonksiyon Ana
+    Yaratmak Tamsayı kısaSınav1, kısaSınav2, odev1, odev2, vize, final, odev1Agırlıgı, odev2Agırlıgı, kısaSınav1Agırlıgı, kısaSınav2Agırlıgı, vizeAgırlıgı, gecmeNotu, sayi, i
+    Yaratmak String öğrencininİsmi, öğrencininSoyismi
+
+    Yaratmak String Dizi isimler[]
+    Atama isimler[] = { "Berk","Mert","Efe","Sinan","Melih","Cem","Kaan","Rıfat","Selim","Yavuz","Feyzullah","Görkem","Mustafa","Kemal","Enver","Serdar","Aytunç","Tolga","Deniz","Hikmet",
+    "Refik","Hayati","İrfan Can","Ferdi","İsmail","Yusuf","Kerem","Akın","Defne","Yağmur","Ahsen","İrem","Zeynep","Ayşegül","Asrın","Banu","Bengü","Yıldız","Ebru","Ceren","Eda","Işıl",
+    "Irmak","Pelin","Sevinç","Beyza","Büşra","Esma","Nisanur","Hazal","Sena","Elif","Azra","Ece","Ravza","Zümra","Açelya","Almila","Aybüke","Ayşe" } 
+
+    Yaratmak String Dizi soyisimler[]
+    Atama soyisimler[] = { "Yılmaz","Çelik","Demir","Aslan","Rüzgar","Şener","Ilgaz","Öztürk","Şahin","Yiğit","Poyraz","Mutlu","Kaya","Çetin","Akın","Yıldız","Bulut","Kahveci","Demirel",
+    "Özdemir","Kural","Ergün","Akdemir","Karademir","Yıldırım","Şimşek","Yalçın","Erdem","Karakurt","Alemdar","Özgür","Eren","Özçelik","Ayhan","Karayel","Çetin","Özkan","Uğur","Korkmaz",
+    "Çakır","Işık","Aydoğdu","Yüksek","Akaydın","Aydın","Gök","Zor","Albayrak","Ertekin","Karataş","Ulusoy","Canatan","Dinç","Serbes","Toprak","Ak","Al","Kara","Kılıç","Yağcı" }
+    
+
+    Yaratmak Tamsayı Dizi sınıfHarfNotları[9]
+    Atama sınıfHarfNotları[0] = 0
+    Atama sınıfHarfNotları[1] = 0
+    Atama sınıfHarfNotları[2] = 0
+    Atama sınıfHarfNotları[3] = 0
+    Atama sınıfHarfNotları[4] = 0
+    Atama sınıfHarfNotları[5] = 0
+    Atama sınıfHarfNotları[6] = 0
+    Atama sınıfHarfNotları[7] = 0
+    Atama sınıfHarfNotları[8] = 0
+
+    Yaratmak String Dizi harfNotları[9]
+    Atama harfNotları[] = { "AA","BA","BB","CB","CC","DC","DD","FD","FF" }
+   
+
+    Yaratmak Reel standartSapma, sınıfOrtalama, enYuksekNot, enDusukNot, yılici, ortalama, toplamNot
+    Atama toplamNot = 0
+    Atama standartSapma = 0.0
+    Atama enYuksekNot = 0
+    Atama enDusukNot = 100
+
+    Çıktı "Öğrenci Sayısını Giriniz"
+    Giriş sayi
+    Çıktı "Yıl İçi Notunun Geçme Notuna Etkisinin Yüzdesini Giriniz"
+    Giriş gecmeNotu
+    Çıktı "Toplamı 100 Olacak Şekilde Aşağıdaki Yüzde Değerlerini Giriniz"
+    Çıktı "1. Ödevin Ortalamaya Etkisinin Yüzdesini Giriniz"
+    Giriş odev1Agırlıgı
+    Çıktı "2. Ödevin Ortalamaya Etkisinin Yüzdesini Giriniz"
+    Giriş odev2Agırlıgı
+    Çıktı "1. Kısa Sınavın Ortalamaya Etkisinin Yüzdesini Giriniz"
+    Giriş kısaSınav1Agırlıgı
+    Çıktı "2. Kısa Sınavın Ortalamaya Etkisinin Yüzdesini Giriniz"
+    Giriş kısaSınav2Agırlıgı
+    Çıktı "Vizenin Ortalamaya Etkisinin Yüzdesini Giriniz"
+    Giriş vizeAgırlıgı
+    For i = 0 ... sayi - 1
+        Atama öğrencininİsmi = isimler[random(60)]
+        Atama öğrencininSoyismi = soyisimler[random(60)]
+        Atama kısaSınav1 = rastgeleNotUret(i,sayi)
+        Atama kısaSınav2 = rastgeleNotUret(i,sayi)
+        Atama odev1 = rastgeleNotUret(i,sayi)
+        Atama odev2 = rastgeleNotUret(i,sayi)
+        Atama vize = rastgeleNotUret(i,sayi)
+        Atama final = rastgeleNotUret(i,sayi)
+        Çıktı "Öğrencinin İsmi : " & öğrencininİsmi
+        Çıktı "Öğrencinin Soyismi : " & öğrencininSoyismi
+        Çıktı "1. Kısa Sınav Notu : " & kısaSınav1
+        Çıktı "2. Kısa Sınav Notu : " & kısaSınav2
+        Çıktı "1. Ödev Notu : " & odev1
+        Çıktı "2. Ödev Notu : " & odev2
+        Çıktı "Vize Notu : " & vize
+        Çıktı "Final Notu : " & final
+        Atama yılici = (kısaSınav1 * kısaSınav1Agırlıgı / 100) + (kısaSınav2 * kısaSınav2Agırlıgı / 100) + (odev1  * odev1Agırlıgı / 100) + (odev2 * odev2Agırlıgı / 100) + (vize * 	vizeAgırlıgı / 100)
+        Atama ortalama = (yılici * gecmeNotu / 100) + (final * (100 - gecmeNotu) / 100)
+        Çıktı "Ortalaması : " & ortalama
+        Eğer ortalama >= 90 && ortalama <= 100
+            Çıktı "Harf Notu : " & harfNotları[0]
+            Atama sınıfHarfNotları[0] = sınıfHarfNotları[0] + 1
+        Değilse Eğer ortalama >= 85 && ortalama < 90
+            Çıktı "Harf Notu : " & harfNotları[1]
+            Atama sınıfHarfNotları[1] = sınıfHarfNotları[1] + 1     
+        Değilse Eğer ortalama >= 80 && ortalama < 85
+            Çıktı "Harf Notu : " & harfNotları[2]
+            Atama sınıfHarfNotları[2] = sınıfHarfNotları[2] + 1   
+        Değilse Eğer ortalama >= 75 && ortalama < 80       
+            Çıktı "Harf Notu : " & harfNotları[3]
+            Atama sınıfHarfNotları[3] = sınıfHarfNotları[3] + 1       
+        Değilse Eğer ortalama >= 65 && ortalama < 75
+            Çıktı "Harf Notu : " & harfNotları[4]
+            Atama sınıfHarfNotları[4] = sınıfHarfNotları[4] + 1                
+        Değilse Eğer ortalama >= 58 && ortalama < 65
+            Çıktı "Harf Notu : " & harfNotları[5]
+            Atama sınıfHarfNotları[5] = sınıfHarfNotları[5] + 1          
+        Değilse Eğer ortalama >= 50 && ortalama < 58
+            Çıktı "Harf Notu : " & harfNotları[6]
+            Atama sınıfHarfNotları[6] = sınıfHarfNotları[6] + 1               
+   	Değilse Eğer ortalama >= 40 && ortalama < 50
+            Çıktı "Harf Notu : " & harfNotları[7]
+            Atama sınıfHarfNotları[7] = sınıfHarfNotları[7] + 1
+        Değilse                   
+            Çıktı "Harf Notu : " & harfNotları[8]
+            Atama sınıfHarfNotları[8] = sınıfHarfNotları[8] + 1              
+        Son
+
+        Atama toplamNot = ToplamNot + ortalama
+        Atama sınıfOrtalama = toplamNot / sayi
+        Atama standartSapma = ((ortalama - sınıfOrtalama) * (ortalama - sınıfOrtalama) + standartSapma)
+	Atama standartSapma = sqrt(standartSapma / sayi)
+
+        Eğer ortalama > enYuksekNot
+            Atama enYuksekNot = ortalama
+        Son
+
+        Eğer ortalama < enDusukNot
+            Atama enDusukNot = ortalama
+        Son
+    Son
+    Çıktı "Sınıfın Not İstatistikleri"
+    Çıktı "Sınıfın Ortalaması : " & sınıfOrtalama
+    Çıktı "En Yüksek Ortalama : " & enYuksekNot
+    Çıktı "En Düşük Ortalama : " & enDusukNot
+    Çıktı "Standart Sapma : " & standartSapma
+
+    Çıktı "Sınıf Harf Notu İstatistikleri"
+    Çıktı "AA Alan Öğrenci Sayısı : " & sınıfHarfNotları[0] & " Öğrenci ve Sınıftaki Yüzdesi : % " & (sınıfHarfNotları[0] / sayi) * 100
+    Çıktı "BA Alan Öğrenci Sayısı : " & sınıfHarfNotları[1] & " Öğrenci ve Sınıftaki Yüzdesi : % " & (sınıfHarfNotları[1] / sayi) * 100
+    Çıktı "BB Alan Öğrenci Sayısı : " & sınıfHarfNotları[2] & " Öğrenci ve Sınıftaki Yüzdesi : % " & (sınıfHarfNotları[2] / sayi)* 100
+    Çıktı "CB Alan Öğrenci Sayısı : " & sınıfHarfNotları[3] & " Öğrenci ve Sınıftaki Yüzdesi : % " & (sınıfHarfNotları[3] / sayi) * 100
+    Çıktı "CC Alan Öğrenci Sayısı : " & sınıfHarfNotları[4] & " Öğrenci ve Sınıftaki Yüzdesi : % " & (sınıfHarfNotları[4] / sayi) * 100
+    Çıktı "DC Alan Öğrenci Sayısı : " & sınıfHarfNotları[5] & " Öğrenci ve Sınıftaki Yüzdesi : % " & (sınıfHarfNotları[5] / sayi) * 100
+    Çıktı "DD Alan Öğrenci Sayısı : " & sınıfHarfNotları[6] & " Öğrenci ve Sınıftaki Yüzdesi : % " & (sınıfHarfNotları[6] / sayi) * 100
+    Çıktı "FD Alan Öğrenci Sayısı : " & sınıfHarfNotları[7] & " Öğrenci ve Sınıftaki Yüzdesi : % " & (sınıfHarfNotları[7] / sayi) * 100
+    Çıktı "FF Alan Öğrenci Sayısı : " & sınıfHarfNotları[8] & " Öğrenci ve Sınıftaki Yüzdesi : % " & (sınıfHarfNotları[8] / sayi) * 100
+
+
+Son

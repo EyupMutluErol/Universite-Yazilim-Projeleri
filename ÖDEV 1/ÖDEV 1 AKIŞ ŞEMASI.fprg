@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="HUAWE&#304;"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-11-14 06:33:04 &#214;S"/>
+        <attribute name="created" value="SFVBV0XEsDtMQVBUT1AtTURHRUJVTTE7MjAyMy0xMS0xNDswNjoxMzoxNCDDllM7MzE2Ng=="/>
+        <attribute name="edited" value="SFVBV0XEsDtMQVBUT1AtTURHRUJVTTE7MjAyMy0xMS0xNDswNjoxMzoxOCDDllM7MTtIVUFXRcSwO0xBUFRPUC1NREdFQlVNMTsyMDIzLTExLTEyOzEwOjI5OjM1IMOWUztvZGV2LmZwcmc7NzQ3Mg=="/>
+        <attribute name="edited" value="SFVBV0XEsDtMQVBUT1AtTURHRUJVTTE7MjAyMy0xMS0xNDswNjozMzowNCDDllM7MjszMjc2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="k&#305;saS&#305;nav1, k&#305;saS&#305;nav2, odev1, odev2, vize, final, odev1Ag&#305;rl&#305;g&#305;, odev2Ag&#305;rl&#305;g&#305;, k&#305;saS&#305;nav1Ag&#305;rl&#305;g&#305;, k&#305;saS&#305;nav2Ag&#305;rl&#305;g&#305;, vizeAg&#305;rl&#305;g&#305;, gecmeNotu, sayi, i" type="Integer" array="False" size=""/>
+            <declare name="&#246;&#287;rencinin&#304;smi, &#246;&#287;rencininSoyismi" type="String" array="False" size=""/>
+            <declare name="isimler" type="String" array="True" size="2"/>
+            <assign variable="isimler[0]" expression="&quot;Ali&quot;"/>
+            <assign variable="isimler[1]" expression="&quot;Ay&#351;e&quot;"/>
+            <declare name="soyisimler" type="String" array="True" size="2"/>
+            <assign variable="soyisimler[0]" expression="&quot;Y&#305;ld&#305;z&quot;"/>
+            <assign variable="soyisimler[1]" expression="&quot;Alt&#305;n&quot;"/>
+            <declare name="s&#305;n&#305;fHarfNotlar&#305;" type="Integer" array="True" size="9"/>
+            <assign variable="s&#305;n&#305;fHarfNotlar&#305;[0]" expression="0"/>
+            <assign variable="s&#305;n&#305;fHarfNotlar&#305;[1]" expression="0"/>
+            <assign variable="s&#305;n&#305;fHarfNotlar&#305;[2]" expression="0"/>
+            <assign variable="s&#305;n&#305;fHarfNotlar&#305;[3]" expression="0"/>
+            <assign variable="s&#305;n&#305;fHarfNotlar&#305;[4]" expression="0"/>
+            <assign variable="s&#305;n&#305;fHarfNotlar&#305;[5]" expression="0"/>
+            <assign variable="s&#305;n&#305;fHarfNotlar&#305;[6]" expression="0"/>
+            <assign variable="s&#305;n&#305;fHarfNotlar&#305;[7]" expression="0"/>
+            <assign variable="s&#305;n&#305;fHarfNotlar&#305;[8]" expression="0"/>
+            <declare name="harfNotlar&#305;" type="String" array="True" size="9"/>
+            <assign variable="harfNotlar&#305;[0]" expression="&quot;AA&quot;"/>
+            <assign variable="harfNotlar&#305;[1]" expression="&quot;BA&quot;"/>
+            <assign variable="harfNotlar&#305;[2]" expression="&quot;BB&quot;"/>
+            <assign variable="harfNotlar&#305;[3]" expression="&quot;CB&quot;"/>
+            <assign variable="harfNotlar&#305;[4]" expression="&quot;CC&quot;"/>
+            <assign variable="harfNotlar&#305;[5]" expression="&quot;DC&quot;"/>
+            <assign variable="harfNotlar&#305;[6]" expression="&quot;DD&quot;"/>
+            <assign variable="harfNotlar&#305;[7]" expression="&quot;FD&quot;"/>
+            <assign variable="harfNotlar&#305;[8]" expression="&quot;FF&quot;"/>
+            <declare name="standartSapma, s&#305;n&#305;fOrtalama, enYuksekNot, enDusukNot, y&#305;lici, ortalama, toplamNot" type="Real" array="False" size=""/>
+            <assign variable="toplamNot" expression="0"/>
+            <assign variable="standartSapma" expression="0.0"/>
+            <assign variable="enYuksekNot" expression="0"/>
+            <assign variable="enDusukNot" expression="100"/>
+            <output expression="&quot;&#214;&#287;renci Say&#305;s&#305;n&#305; Giriniz&quot;" newline="True"/>
+            <input variable="sayi"/>
+            <output expression="&quot;Y&#305;l &#304;&#231;i Notunun Ge&#231;me Notuna Etkisinin Y&#252;zdesini Giriniz&quot;" newline="True"/>
+            <input variable="gecmeNotu"/>
+            <output expression="&quot;Toplam&#305; 100 Olacak &#350;ekilde A&#351;a&#287;&#305;daki Y&#252;zde De&#287;erlerini Giriniz&quot;" newline="True"/>
+            <output expression="&quot;1. &#214;devin Ortalamaya Etkisinin Y&#252;zdesini Giriniz&quot;" newline="True"/>
+            <input variable="odev1Ag&#305;rl&#305;g&#305;"/>
+            <output expression="&quot;2. &#214;devin Ortalamaya Etkisinin Y&#252;zdesini Giriniz&quot;" newline="True"/>
+            <input variable="odev2Ag&#305;rl&#305;g&#305;"/>
+            <output expression="&quot;1. K&#305;sa S&#305;nav&#305;n Ortalamaya Etkisinin Y&#252;zdesini Giriniz&quot;" newline="True"/>
+            <input variable="k&#305;saS&#305;nav1Ag&#305;rl&#305;g&#305;"/>
+            <output expression="&quot;2. K&#305;sa S&#305;nav&#305;n Ortalamaya Etkisinin Y&#252;zdesini Giriniz&quot;" newline="True"/>
+            <input variable="k&#305;saS&#305;nav2Ag&#305;rl&#305;g&#305;"/>
+            <output expression="&quot;Vizenin Ortalamaya Etkisinin Y&#252;zdesini Giriniz&quot;" newline="True"/>
+            <input variable="vizeAg&#305;rl&#305;g&#305;"/>
+            <for variable="i" start="0" end="sayi - 1" direction="inc" step="1">
+                <assign variable="&#246;&#287;rencinin&#304;smi" expression="isimler[random(2)]"/>
+                <assign variable="&#246;&#287;rencininSoyismi" expression="soyisimler[random(2)]"/>
+                <assign variable="k&#305;saS&#305;nav1" expression="rastgeleNotUret(i,sayi)"/>
+                <assign variable="k&#305;saS&#305;nav2" expression="rastgeleNotUret(i,sayi)"/>
+                <assign variable="odev1" expression="rastgeleNotUret(i,sayi)"/>
+                <assign variable="odev2" expression="rastgeleNotUret(i,sayi)"/>
+                <assign variable="vize" expression="rastgeleNotUret(i,sayi)"/>
+                <assign variable="final" expression="rastgeleNotUret(i,sayi)"/>
+                <output expression="&quot;&#214;&#287;rencinin &#304;smi : &quot; &amp; &#246;&#287;rencinin&#304;smi" newline="True"/>
+                <output expression="&quot;&#214;&#287;rencinin Soyismi : &quot; &amp; &#246;&#287;rencininSoyismi" newline="True"/>
+                <output expression="&quot;1. K&#305;sa S&#305;nav Notu : &quot; &amp; k&#305;saS&#305;nav1" newline="True"/>
+                <output expression="&quot;2. K&#305;sa S&#305;nav Notu : &quot; &amp; k&#305;saS&#305;nav2" newline="True"/>
+                <output expression="&quot;1. &#214;dev Notu : &quot; &amp; odev1" newline="True"/>
+                <output expression="&quot;2. &#214;dev Notu : &quot; &amp; odev2" newline="True"/>
+                <output expression="&quot;Vize Notu : &quot; &amp; vize" newline="True"/>
+                <output expression="&quot;Final Notu : &quot; &amp; final" newline="True"/>
+                <assign variable="y&#305;lici" expression="(k&#305;saS&#305;nav1 * k&#305;saS&#305;nav1Ag&#305;rl&#305;g&#305; / 100) + (k&#305;saS&#305;nav2 * k&#305;saS&#305;nav2Ag&#305;rl&#305;g&#305; / 100) + (odev1  * odev1Ag&#305;rl&#305;g&#305; / 100) + (odev2 * odev2Ag&#305;rl&#305;g&#305; / 100) + (vize * vizeAg&#305;rl&#305;g&#305; / 100)"/>
+                <assign variable="ortalama" expression="(y&#305;lici * gecmeNotu / 100) + (final * (100 - gecmeNotu) / 100)"/>
+                <output expression="&quot;Ortalamas&#305; : &quot; &amp; ortalama" newline="True"/>
+                <if expression="ortalama &gt;= 90 &amp;&amp; ortalama &lt;= 100">
+                    <then>
+                        <output expression="&quot;Harf Notu : &quot; &amp; harfNotlar&#305;[0]" newline="True"/>
+                        <assign variable="s&#305;n&#305;fHarfNotlar&#305;[0]" expression="s&#305;n&#305;fHarfNotlar&#305;[0] + 1"/>
+                    </then>
+                    <else>
+                        <if expression="ortalama &gt;= 85 &amp;&amp; ortalama &lt; 90">
+                            <then>
+                                <output expression="&quot;Harf Notu : &quot; &amp; harfNotlar&#305;[1]" newline="True"/>
+                                <assign variable="s&#305;n&#305;fHarfNotlar&#305;[1]" expression="s&#305;n&#305;fHarfNotlar&#305;[1] + 1"/>
+                            </then>
+                            <else>
+                                <if expression="ortalama &gt;= 80 &amp;&amp; ortalama &lt; 85">
+                                    <then>
+                                        <output expression="&quot;Harf Notu : &quot; &amp; harfNotlar&#305;[2]" newline="True"/>
+                                        <assign variable="s&#305;n&#305;fHarfNotlar&#305;[2]" expression="s&#305;n&#305;fHarfNotlar&#305;[2] + 1"/>
+                                    </then>
+                                    <else>
+                                        <if expression="ortalama &gt;= 75 &amp;&amp; ortalama &lt; 80">
+                                            <then>
+                                                <output expression="&quot;Harf Notu : &quot; &amp; harfNotlar&#305;[3]" newline="True"/>
+                                                <assign variable="s&#305;n&#305;fHarfNotlar&#305;[3]" expression="s&#305;n&#305;fHarfNotlar&#305;[3] + 1"/>
+                                            </then>
+                                            <else>
+                                                <if expression="ortalama &gt;= 65 &amp;&amp; ortalama &lt; 75">
+                                                    <then>
+                                                        <output expression="&quot;Harf Notu : &quot; &amp; harfNotlar&#305;[4]" newline="True"/>
+                                                        <assign variable="s&#305;n&#305;fHarfNotlar&#305;[4]" expression="s&#305;n&#305;fHarfNotlar&#305;[4] + 1"/>
+                                                    </then>
+                                                    <else>
+                                                        <if expression="ortalama &gt;= 58 &amp;&amp; ortalama &lt; 65">
+                                                            <then>
+                                                                <output expression="&quot;Harf Notu : &quot; &amp; harfNotlar&#305;[5]" newline="True"/>
+                                                                <assign variable="s&#305;n&#305;fHarfNotlar&#305;[5]" expression="s&#305;n&#305;fHarfNotlar&#305;[5] + 1"/>
+                                                            </then>
+                                                            <else>
+                                                                <if expression="ortalama &gt;= 50 &amp;&amp; ortalama &lt; 58">
+                                                                    <then>
+                                                                        <output expression="&quot;Harf Notu : &quot; &amp; harfNotlar&#305;[6]" newline="True"/>
+                                                                        <assign variable="s&#305;n&#305;fHarfNotlar&#305;[6]" expression="s&#305;n&#305;fHarfNotlar&#305;[6] + 1"/>
+                                                                    </then>
+                                                                    <else>
+                                                                        <if expression="ortalama &gt;= 40 &amp;&amp; ortalama &lt; 50">
+                                                                            <then>
+                                                                                <output expression="&quot;Harf Notu : &quot; &amp; harfNotlar&#305;[7]" newline="True"/>
+                                                                                <assign variable="s&#305;n&#305;fHarfNotlar&#305;[7]" expression="s&#305;n&#305;fHarfNotlar&#305;[7] + 1"/>
+                                                                            </then>
+                                                                            <else>
+                                                                                <output expression="&quot;Harf Notu : &quot; &amp; harfNotlar&#305;[8]" newline="True"/>
+                                                                                <assign variable="s&#305;n&#305;fHarfNotlar&#305;[8]" expression="s&#305;n&#305;fHarfNotlar&#305;[8] + 1"/>
+                                                                            </else>
+                                                                        </if>
+                                                                    </else>
+                                                                </if>
+                                                            </else>
+                                                        </if>
+                                                    </else>
+                                                </if>
+                                            </else>
+                                        </if>
+                                    </else>
+                                </if>
+                            </else>
+                        </if>
+                    </else>
+                </if>
+                <assign variable="toplamNot" expression="ToplamNot + ortalama"/>
+                <assign variable="s&#305;n&#305;fOrtalama" expression="toplamNot / sayi"/>
+                <assign variable="standartSapma" expression="((ortalama - s&#305;n&#305;fOrtalama) * (ortalama - s&#305;n&#305;fOrtalama) + standartSapma)"/>
+                <if expression="ortalama &gt; enYuksekNot">
+                    <then>
+                        <assign variable="enYuksekNot" expression="ortalama"/>
+                    </then>
+                    <else/>
+                </if>
+                <if expression="ortalama &lt; enDusukNot">
+                    <then>
+                        <assign variable="enDusukNot" expression="ortalama"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+            <output expression="&quot;S&#305;n&#305;f&#305;n Ortalamas&#305; : &quot; &amp; s&#305;n&#305;fOrtalama" newline="True"/>
+            <output expression="&quot;En Y&#252;ksek Ortalama : &quot; &amp; enYuksekNot" newline="True"/>
+            <output expression="&quot;En D&#252;&#351;&#252;k Ortalama : &quot; &amp; enDusukNot" newline="True"/>
+            <assign variable="standartSapma" expression="sqrt(standartSapma / sayi)"/>
+            <output expression="&quot;Standart Sapma : &quot; &amp; standartSapma" newline="True"/>
+            <output expression="&quot;AA Alan &#214;&#287;renci Say&#305;s&#305; : &quot; &amp; s&#305;n&#305;fHarfNotlar&#305;[0] &amp; &quot; &#214;&#287;renci ve S&#305;n&#305;ftaki Y&#252;zdesi : % &quot; &amp; (s&#305;n&#305;fHarfNotlar&#305;[0] / sayi) * 100" newline="True"/>
+            <output expression="&quot;BA Alan &#214;&#287;renci Say&#305;s&#305; : &quot; &amp; s&#305;n&#305;fHarfNotlar&#305;[1] &amp; &quot; &#214;&#287;renci ve S&#305;n&#305;ftaki Y&#252;zdesi : % &quot; &amp; (s&#305;n&#305;fHarfNotlar&#305;[1] / sayi) * 100" newline="True"/>
+            <output expression="&quot;BB Alan &#214;&#287;renci Say&#305;s&#305; : &quot; &amp; s&#305;n&#305;fHarfNotlar&#305;[2] &amp; &quot; &#214;&#287;renci ve S&#305;n&#305;ftaki Y&#252;zdesi : % &quot; &amp; (s&#305;n&#305;fHarfNotlar&#305;[2] / sayi)* 100" newline="True"/>
+            <output expression="&quot;CB Alan &#214;&#287;renci Say&#305;s&#305; : &quot; &amp; s&#305;n&#305;fHarfNotlar&#305;[3] &amp; &quot; &#214;&#287;renci ve S&#305;n&#305;ftaki Y&#252;zdesi : % &quot; &amp; (s&#305;n&#305;fHarfNotlar&#305;[3] / sayi) * 100" newline="True"/>
+            <output expression="&quot;CC Alan &#214;&#287;renci Say&#305;s&#305; : &quot; &amp; s&#305;n&#305;fHarfNotlar&#305;[4] &amp; &quot; &#214;&#287;renci ve S&#305;n&#305;ftaki Y&#252;zdesi : % &quot; &amp; (s&#305;n&#305;fHarfNotlar&#305;[4] / sayi) * 100" newline="True"/>
+            <output expression="&quot;DC Alan &#214;&#287;renci Say&#305;s&#305; : &quot; &amp; s&#305;n&#305;fHarfNotlar&#305;[5] &amp; &quot; &#214;&#287;renci ve S&#305;n&#305;ftaki Y&#252;zdesi : % &quot; &amp; (s&#305;n&#305;fHarfNotlar&#305;[5] / sayi) * 100" newline="True"/>
+            <output expression="&quot;DD Alan &#214;&#287;renci Say&#305;s&#305; : &quot; &amp; s&#305;n&#305;fHarfNotlar&#305;[6] &amp; &quot; &#214;&#287;renci ve S&#305;n&#305;ftaki Y&#252;zdesi : % &quot; &amp; (s&#305;n&#305;fHarfNotlar&#305;[6] / sayi) * 100" newline="True"/>
+            <output expression="&quot;FD Alan &#214;&#287;renci Say&#305;s&#305; : &quot; &amp; s&#305;n&#305;fHarfNotlar&#305;[7] &amp; &quot; &#214;&#287;renci ve S&#305;n&#305;ftaki Y&#252;zdesi : % &quot; &amp; (s&#305;n&#305;fHarfNotlar&#305;[7] / sayi) * 100" newline="True"/>
+            <output expression="&quot;FF Alan &#214;&#287;renci Say&#305;s&#305; : &quot; &amp; s&#305;n&#305;fHarfNotlar&#305;[8] &amp; &quot; &#214;&#287;renci ve S&#305;n&#305;ftaki Y&#252;zdesi : % &quot; &amp; (s&#305;n&#305;fHarfNotlar&#305;[8] / sayi) * 100" newline="True"/>
+        </body>
+    </function>
+    <function name="rastgeleNotUret" type="Integer" variable="rastgeleNot">
+        <parameters>
+            <parameter name="d&#246;ng&#252;Sayisi" type="Integer" array="False"/>
+            <parameter name="sinifMevcudu" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="rastgeleNot" type="Integer" array="False" size=""/>
+            <if expression="d&#246;ng&#252;Sayisi + 1 &lt;= sinifMevcudu / 5">
+                <then>
+                    <assign variable="rastgeleNot" expression="80 + random(20) + 1"/>
+                </then>
+                <else>
+                    <if expression="d&#246;ng&#252;Sayisi + 1 &lt;= sinifMevcudu * 5 / 10">
+                        <then>
+                            <assign variable="rastgeleNot" expression="50 + random(30) + 1"/>
+                        </then>
+                        <else>
+                            <assign variable="rastgeleNot" expression="0 + random(50) + 1"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

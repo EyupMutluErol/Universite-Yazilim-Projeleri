@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HUAWE\u0130\\OneDrive\\Masa\u00FCst\u00FC\\Nesne\u00D6dev1\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7506CC85-9C9B-40A4-A2FE-AD36138D4EEB}|OOP\\OOP.csproj|c:\\users\\huawe\u0130\\onedrive\\masa\u00FCst\u00FC\\nesne\u00F6dev1\\oop\\oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7506CC85-9C9B-40A4-A2FE-AD36138D4EEB}|OOP\\OOP.csproj|solutionrelative:oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7506CC85-9C9B-40A4-A2FE-AD36138D4EEB}|OOP\\OOP.csproj|C:\\Users\\HUAWE\u0130\\OneDrive\\Masa\u00FCst\u00FC\\Nesne\u00D6dev1\\OOP\\oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7506CC85-9C9B-40A4-A2FE-AD36138D4EEB}|OOP\\OOP.csproj|solutionrelative:oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWE\u0130\\OneDrive\\Masa\u00FCst\u00FC\\Nesne\u00D6dev1\\OOP\\OOP\\Form1.cs",
+              "RelativeDocumentMoniker": "OOP\\Form1.cs",
+              "ToolTip": "C:\\Users\\HUAWE\u0130\\OneDrive\\Masa\u00FCst\u00FC\\Nesne\u00D6dev1\\OOP\\OOP\\Form1.cs",
+              "RelativeToolTip": "OOP\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T12:37:59.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HUAWE\u0130\\OneDrive\\Masa\u00FCst\u00FC\\Nesne\u00D6dev1\\OOP\\OOP\\Form1.cs",
+              "RelativeDocumentMoniker": "OOP\\Form1.cs",
+              "ToolTip": "C:\\Users\\HUAWE\u0130\\OneDrive\\Masa\u00FCst\u00FC\\Nesne\u00D6dev1\\OOP\\OOP\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OOP\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T12:32:22.408Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

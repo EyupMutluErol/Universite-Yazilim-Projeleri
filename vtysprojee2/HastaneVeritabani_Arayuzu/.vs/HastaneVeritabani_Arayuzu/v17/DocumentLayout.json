@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HUAWE\u0130\\OneDrive\\Masa\u00FCst\u00FC\\vtysprojee2\\HastaneVeritabani_Arayuzu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C6AD2B-DD8B-4413-883A-7018A3254EAD}|HastaneVeritabani_Arayuzu.csproj|c:\\users\\huawe\u0130\\onedrive\\masa\u00FCst\u00FC\\vtysprojee2\\hastaneveritabani_arayuzu\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4C6AD2B-DD8B-4413-883A-7018A3254EAD}|HastaneVeritabani_Arayuzu.csproj|solutionrelative:hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C6AD2B-DD8B-4413-883A-7018A3254EAD}|HastaneVeritabani_Arayuzu.csproj|C:\\Users\\HUAWE\u0130\\OneDrive\\Masa\u00FCst\u00FC\\vtysprojee2\\HastaneVeritabani_Arayuzu\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C6AD2B-DD8B-4413-883A-7018A3254EAD}|HastaneVeritabani_Arayuzu.csproj|solutionrelative:hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hasta.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HUAWE\u0130\\OneDrive\\Masa\u00FCst\u00FC\\vtysprojee2\\HastaneVeritabani_Arayuzu\\Hasta.cs",
+              "RelativeDocumentMoniker": "Hasta.cs",
+              "ToolTip": "C:\\Users\\HUAWE\u0130\\OneDrive\\Masa\u00FCst\u00FC\\vtysprojee2\\HastaneVeritabani_Arayuzu\\Hasta.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Hasta.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:02:51.395Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hasta.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWE\u0130\\OneDrive\\Masa\u00FCst\u00FC\\vtysprojee2\\HastaneVeritabani_Arayuzu\\Hasta.cs",
+              "RelativeDocumentMoniker": "Hasta.cs",
+              "ToolTip": "C:\\Users\\HUAWE\u0130\\OneDrive\\Masa\u00FCst\u00FC\\vtysprojee2\\HastaneVeritabani_Arayuzu\\Hasta.cs",
+              "RelativeToolTip": "Hasta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:02:29.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
